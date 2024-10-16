@@ -1,0 +1,33 @@
+body{
+	background-color: beige;
+    
+    color: black ;
+}
+
+h1{
+	color: black;
+	
+	font-family: times new roman, 'Times New Roman', Times, serif;
+}
+
+h2{
+	color: black;
+	
+	font-family: times new roman, 'Times New Roman', Times, serif;
+}
+
+h3{
+	color: black;
+	
+	font-family: times new roman, 'Times New Roman', Times, serif;
+}
+
+p{
+	color: black;
+	
+	font-family: times new roman, 'Times New Roman', Times, serif;
+}
+
+a:visited{
+	color: royalblue;
+}
