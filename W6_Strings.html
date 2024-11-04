@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>W6 Login Page</title>
+    <style>
+        #loginStatus{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to my Login Page</h1>
+
+    <h2>Please log in to continue:</h2>
+    <br>
+    <div id="loginStatus"></div>
+    <br>
+    <form method="post" onsubmit="return validateForm();">
+        <label for="fName">First Name</label>
+        <input type="text" id="1Name" name="fName">
+        <br>
+        <label for="1Name">Last Name</label>
+        <input type="text" id="1Name" name="1Name">
+        <br>
+        <label for="zip">Zip Code</label>
+        <input type="number" id="zip" name="zip">
+        <br>
+        <input type="submit" value="Login">
+    </form>
+
+        <!-- add java script code in between scrpit tags -->
+    <script src="script.js">
+       
+    </script>
+</body>
+</html>
