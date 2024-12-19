@@ -1,0 +1,33 @@
+/* declaration block::
+
+selector{
+    property: value;
+    property 2: value'
+}*/
+
+body{
+    background-color: beige;
+    color: black;
+}
+
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 3px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#pics/robot_unicorn_attack_evo_by_robotpencil-d4ob85h.jpg{
+    margin-right: 200px;
+    width:400px;
+}
+
+h1{
+    text-align: center;
+}
